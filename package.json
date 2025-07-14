@@ -1,6 +1,6 @@
 
 {
-  "name": "black-diamond-final",
+  "name": "black-diamond",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
